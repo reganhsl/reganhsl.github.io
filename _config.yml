@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: Li Heng
+subtitle: A blog-orientation theme for Li Heng
+welcome_message: <a href="https://github.com/reganhsl/reganhsl.github.io" target="_blank">Download the theme</a>
+description: Hong Space is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: hong
+    github: reganhsl
+    twitter: 6regan6
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: regan
 
 # Google Analytics
 ga:
